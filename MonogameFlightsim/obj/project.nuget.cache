@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0KbdtefcHweYXjBoFrWsboZPVxMfVCxgb4FFd4F+8YzGgGcznmOik4iAMqRQijpSZKx7MCpIKibp8o0WWdqdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milosz\\source\\C#\\MonogameFlightsim\\MonogameFlightsim\\MonogameFlightsim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milosz\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Milosz\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
